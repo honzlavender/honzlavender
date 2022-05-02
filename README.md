@@ -1,6 +1,6 @@
 <img src="https://user-images.githubusercontent.com/88463344/166299301-4f8ea556-093e-4cab-a440-2fee5843fb46.png" align="center" />
 
-<h1 align="center">Hi! I'm Honz and I'm an artist & software developer. 🎨 👩🏼‍💻</h1>
+<h1 align="center">Hi! I'm Honz, a visual artist & software developer. 🎨 👩🏼‍💻</h1>
 <h3 align="center">based in Brooklyn, on Lanape Land</h3>
 
 
